@@ -1,17 +1,17 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-### Hi there 👋
 
-<!--
-**linkwithsaurav/linkwithsaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+This is SAURAV SINGH, programming to create a better me.
+I'm a Software Developer based in Hyderabd, India.
 
-Here are some ideas to get you started:
+NOW
+✨ Working on an ecommerce website with end to end integration;
+🇵🇹 Planning to use react.js ;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BIO
+🏢 I'm currently working at Reva Solutions
+⚙️ I use daily: node.js, js, express.js, springboot, java.
+🌍 I am Certified [Google Collaboration Engineerhttps://www.credential.net/72b40f53-1d68-4aa0-986c-f3af8a3c968a?key=26b525ed93b8e073ab2855c0d3e167fcbafdbf1ee6a18bf87c9358b9934ec5b6#gs.wjdzq3].
+💅 My projects : 
+🌱 Learning all about Google Cloud Platform
+📫 Reach me: sauravsingh0721@gmail.com
+⚡️ I am a huge Robert Deniro Fan.
