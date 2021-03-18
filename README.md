@@ -1,7 +1,7 @@
 
 Hi there 👋
 * This is SAURAV SINGH, programming to create a better me.
-* I'm a Software Developer based in Hyderabd, India.
+* I'm a Software Developer based in Hyderabad, India.
 
 NOW
 * ✨ Working on an ecommerce website with end to end integration;
